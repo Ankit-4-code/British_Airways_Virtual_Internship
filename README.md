@@ -67,4 +67,5 @@ Develop a predictive model to forecast the likelihood of a customer making a boo
   <br> ![Feature Importance](Task_3_Predictive_modelling/images/FeatureImportance.png)
 ### Tableau link for Spider Map of flight paths and booking count : [Tableau](https://public.tableau.com/views/BritishAirwaysDashboard/BritishAirwaysDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+<br>![Tableau Dashboard](Task_3_Predictive_modelling/images/BritishAirwaysTableauDashboard.png)
 ---
